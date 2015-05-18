@@ -1,0 +1,9 @@
+Package: org.thebigboss.lockpredict
+Name: LockPredict
+Depends: mobilesubstrate, firmware (>= 8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Prevent predictive bar from minimizing.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
